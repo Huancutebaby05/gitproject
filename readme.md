@@ -1,3 +1,3 @@
 <body>
-Xin chào coder
+Xin chào coder cùng nhau học tập nhé
 </body>
